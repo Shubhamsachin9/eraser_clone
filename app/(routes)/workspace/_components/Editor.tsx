@@ -92,7 +92,6 @@ function Editor({
         },
         paragraph: Paragraph,
         warning: Warning,
-        image: SimpleImage,
         marker: {
           class: Marker,
           shortcut: "CMD+SHIFT+M",
